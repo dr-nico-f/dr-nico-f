@@ -1,17 +1,17 @@
-# Hey, I'm Nico
+# Nico
 
-I'm a software engineer who builds tools that solve real problems — automation, cloud infrastructure, and full-stack applications.
+Senior software engineer specializing in backend systems, cloud infrastructure, and automation platforms. 8+ years building integrations, internal tooling, and serverless architectures in enterprise SaaS environments.
 
-I like working across the stack: Python backends, serverless architectures on AWS, Slack integrations, and whatever else gets the job done.
+## Projects
 
-## What I'm working on
+- [**Goblin**](https://github.com/dr-nico-f/goblin) — Automated job discovery bot that fetches, filters, ranks, and posts remote listings to Slack. Python, AWS Lambda, DynamoDB, EventBridge, GitHub Actions CI/CD.
 
-- [**Goblin**](https://github.com/dr-nico-f/goblin) — Automated job discovery bot that fetches, filters, ranks, and posts remote job listings to Slack. Built with Python, AWS Lambda, DynamoDB, and EventBridge.
+## Stack
 
-## Tech I work with
+**Languages:** Python, Java, JavaScript, C#, SQL, Bash
 
-Python · AWS (Lambda, DynamoDB, EventBridge, IAM) · Slack API · GitHub Actions · Docker · Terraform · PostgreSQL · REST APIs · CI/CD
+**Cloud & Infrastructure:** AWS (Lambda, S3, DynamoDB, EC2, CloudWatch, Fargate, Step Functions), Kubernetes, Docker, Terraform, GitHub Actions, Jenkins, CI/CD
 
-## Get in touch
+**Data & Integrations:** PostgreSQL, MySQL, DynamoDB, REST APIs, ETL pipelines, ERP integrations (NetSuite, Ellucian Banner, Sage Intacct), Dell Boomi
 
-- [GitHub](https://github.com/dr-nico-f)
+**Tooling:** Git, Jira, Slack API, Postman, ConfigCat, LaunchDarkly, Coralogix, SonarQube, Agile/Scrum
