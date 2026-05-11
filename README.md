@@ -19,3 +19,6 @@ Senior software engineer specializing in backend systems, cloud infrastructure, 
 **Data & Integrations:** PostgreSQL, MySQL, DynamoDB, REST APIs, ETL pipelines, ERP integrations (NetSuite, Ellucian Banner, Sage Intacct), Dell Boomi
 
 **Tooling:** Git, Jira, Slack API, Postman, ConfigCat, LaunchDarkly, Coralogix, SonarQube, Agile/Scrum
+
+## Future Projects
+Updates coming soon!
